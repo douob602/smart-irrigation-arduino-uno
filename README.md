@@ -44,4 +44,4 @@ MIT — libre d’utilisation, modification et partage 🌿
 
 ## 🙌 Crédits
 
-Atelier animé par [Yassine Doubaji](https://www.linkedin.com/in/yassinedoubaji/) dans le cadre de [KounAktif](https://www.instagram.com/koun.aktif/)
+Atelier animé par [Yassine Doubaji](https://www.linkedin.com/in/yassine-doubaji-a66b5b235/) dans le cadre de [KounAktif](https://www.instagram.com/koun.aktif/)
