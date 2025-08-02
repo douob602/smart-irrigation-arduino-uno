@@ -32,7 +32,7 @@ Arrosage d’environ 500 ml toutes les 24h si besoin.
 
 ## 🔧 Code Arduino
 
-> Le code est disponible dans [`code/arrosage_intelligent.ino`](code/arrosage_intelligent.ino)
+> Le code est disponible dans [`code/arrosage_intelligent.ino`](https://github.com/douob602/smart-irrigation-arduino-uno/blob/main/kounaktif.ino)
 
 ---
 
